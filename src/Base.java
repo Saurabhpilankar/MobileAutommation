@@ -20,7 +20,7 @@ public class Base {
 		
 		
 		DesiredCapabilities cap = new DesiredCapabilities();
-		cap.setCapability(MobileCapabilityType.DEVICE_NAME, "b459f0c0");
+		cap.setCapability(MobileCapabilityType.DEVICE_NAME, "b459f9c0");
 		cap.setCapability(MobileCapabilityType.APP, fs.getAbsolutePath());
 		cap.setCapability(MobileCapabilityType.AUTOMATION_NAME,"uiautomator2") ;
 		
